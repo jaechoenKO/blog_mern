@@ -13,6 +13,5 @@ app.use('/users', usersRouter);
 
 
 
-// env 서버의 중요한 자료 모아둠
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
